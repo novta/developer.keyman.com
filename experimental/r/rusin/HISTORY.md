@@ -1,6 +1,6 @@
-Rusyn Keyboard
+Rusin Change History
 ====================
 
-1.0.0 (2022-07-27)
+1.0 (2023-05-30)
 ----------------
 * Created by Miroslav Novta

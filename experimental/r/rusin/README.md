@@ -1,13 +1,14 @@
-Rusyn Keyboard
+Rusin keyboard
 ==============
+
+Version 1.0
 
 Description
 -----------
-Rusyn keyboard is a rewrite of the earlier keboards for Rusyn language available at novta.blogspot.com.
+Rusin generated from template
 
 Links
 -----
-[https://novta.blogspot.com/](https://novta.blogspot.com/)
 
 Copyright
 ---------

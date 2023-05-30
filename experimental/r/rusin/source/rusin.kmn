@@ -1,12 +1,13 @@
-﻿store(&NAME) 'Rusyn (Serbia)'
-store(&COPYRIGHT) '© Rustem'
-store(&KEYBOARDVERSION) '1.0.0'
-store(&LAYOUTFILE) 'rusyn.keyman-touch-layout'
-store(&MESSAGE) 'The Rusyn Keyman keyboard is distributed under the MIT License (MIT). It is a rewrite of the Russian - Mnemonic Keyman Keyboard with improved dead-keys processing, and enhanced with special and math symbols. Contributed by Tigran Sarukhanyan (tisarukhan@gmail.com). June 2022'
-store(&BITMAP) 'rusyn.ico'
-store(&VISUALKEYBOARD) 'rusyn.kvks'
-store(&ETHNOLOGUECODE) 'rsk'
+﻿c rusin generated from template at 2023-05-30 20:06:26
+c with name "Rusin"
+store(&VERSION) '10.0'
+store(&NAME) 'Rusin'
+store(&COPYRIGHT) '© Miroslav Novta'
+store(&KEYBOARDVERSION) '1.0'
 store(&TARGETS) 'any'
+store(&BITMAP) 'rusin.ico'
+store(&VISUALKEYBOARD) 'rusin.kvks'
+store(&LAYOUTFILE) 'rusin.keyman-touch-layout'
 
 begin Unicode > use(main)
 
@@ -107,4 +108,3 @@ group(main) using keys
 + [K_2] > '2'
 + [K_1] > '1'
 + [K_BKQUOTE] > 'ь'
-
