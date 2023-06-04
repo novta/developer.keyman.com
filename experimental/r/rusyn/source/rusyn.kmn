@@ -1,0 +1,164 @@
+﻿c Rusyn generated from template at 2023-05-30 20:06:26
+c with name "Rusyn"
+store(&VERSION) '9.0'
+store(&NAME) 'Rusyn'
+store(&COPYRIGHT) '© Miroslav Novta'
+store(&KEYBOARDVERSION) '1.0'
+store(&TARGETS) 'any'
+store(&BITMAP) 'rusyn.ico'
+store(&VISUALKEYBOARD) 'rusyn.kvks'
+store(&LAYOUTFILE) 'rusyn.keyman-touch-layout'
+store(&ETHNOLOGUECODE) 'RSK'
+
+begin Unicode > use(main)
+
+group(main) using keys
+
++ [SHIFT K_BKQUOTE] > 'Ь'
++ [K_BKQUOTE] > 'ь'
+
++ [SHIFT K_1] > '!'
++ [K_1] > '1'
+
++ [SHIFT ALT K_2] > '"'
++ [SHIFT K_2] > '@'
++ [K_2] > '2'
+
++ [SHIFT K_3] > '#'
++ [K_3] > '3'
+
++ [SHIFT K_4] > '$'
++ [K_4] > '4'
+
++ [SHIFT K_5] > '%'
++ [K_5] > '5'
+
++ [SHIFT K_6] > '^'
++ [K_6] > '6'
+
++ [SHIFT K_7] > '&'
++ [K_7] > '7'
+
++ [SHIFT K_8] > '*'
++ [K_8] > '8'
+
++ [SHIFT K_9] > '('
++ [K_9] > '9'
+
++ [SHIFT K_0] > ')'
++ [K_0] > '0'
+
++ [SHIFT K_HYPHEN] > '_'
++ [K_HYPHEN] > '-'
+
++ [SHIFT K_EQUAL] > '+'
++ [K_EQUAL] > '='
+
+
++ [SHIFT K_Q] > 'Я'
++ [K_Q] > 'я'
+
++ [SHIFT K_W] > 'Є'
++ [K_W] > 'є'
+
++ [SHIFT K_E] > 'Е'
++ [K_E] > 'е'
+
++ [SHIFT K_R] > 'Р'
++ [K_R] > 'р'
+
++ [SHIFT K_T] > 'Т'
++ [K_T] > 'т'
+
++ [SHIFT K_Y] > 'Ю'
++ [K_Y] > 'ю'
+
++ [SHIFT K_U] > 'У'
++ [K_U] > 'у'
+
++ [SHIFT K_I] > 'И'
++ [K_I] > 'и'
+
++ [SHIFT K_O] > 'О'
++ [K_O] > 'о'
+
++ [SHIFT K_P] > 'П'
++ [K_P] > 'п'
+
++ [SHIFT K_LBRKT] > 'Ш'
++ [K_LBRKT] > 'ш'
+
++ [SHIFT K_RBRKT] > 'Щ'
++ [K_RBRKT] > 'щ'
+
++ [SHIFT K_BKSLASH] > 'Ж'
++ [K_BKSLASH] > 'ж'
+
+
++ [SHIFT K_A] > 'А'
++ [K_A] > 'а'
+
++ [SHIFT K_S] > 'С'
++ [K_S] > 'с'
+
++ [SHIFT K_D] > 'Д'
++ [K_D] > 'д'
+
++ [SHIFT K_F] > 'Ф'
++ [K_F] > 'ф'
+
++ [SHIFT K_G] > 'Ґ'
++ [K_G] > 'ґ'
+
++ [SHIFT K_H] > 'Х'
++ [K_H] > 'х'
+
++ [SHIFT K_J] > 'Й'
++ [K_J] > 'й'
+
++ [SHIFT K_K] > 'К'
++ [K_K] > 'к'
+
++ [SHIFT K_L] > 'Л'
++ [K_L] > 'л'
+
++ [SHIFT K_COLON] > 'Ч'
++ [K_COLON] > 'ч'
+
++ [SHIFT K_QUOTE] > 'Г'
++ [K_QUOTE] > 'г'
+
+
++ [SHIFT K_Z] > 'З'
++ [K_Z] > 'з'
+
++ [SHIFT K_X] > 'Ї'
++ [K_X] > 'ї'
+
++ [SHIFT K_C] > 'Ц'
++ [K_C] > 'ц'
+
++ [SHIFT K_V] > 'В'
++ [K_V] > 'в'
+
++ [SHIFT K_B] > 'Б'
++ [K_B] > 'б'
+
++ [SHIFT K_M] > 'М'
++ [K_M] > 'м'
+
++ [SHIFT K_N] > 'Н'
++ [K_N] > 'н'
+
++ [SHIFT K_COMMA] > '<'
++ [K_COMMA] > ','
+
++ [SHIFT K_PERIOD] > '>'
++ [K_PERIOD] > '.'
+
++ [SHIFT K_SLASH] > '?'
++ [K_SLASH] > '/'
+
+
++ [K_SPACE] > ' '
+

@@ -1,11 +1,11 @@
-Rusin keyboard
+Rusyn keyboard
 ==============
 
 Version 1.0
 
 Description
 -----------
-Rusin generated from template
+Rusyn generated from template
 
 Links
 -----

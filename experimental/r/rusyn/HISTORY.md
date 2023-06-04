@@ -1,4 +1,4 @@
-Rusin Change History
+Rusyn Change History
 ====================
 
 1.0 (2023-05-30)

@@ -16,26 +16,26 @@
     <Items/>
   </StartMenu>
   <Info>
-    <Name URL="">Rusin</Name>
+    <Name URL="">Rusyn</Name>
     <Copyright URL="">© Miroslav Novta</Copyright>
     <Author URL="">Miroslav Novta</Author>
     <Version URL=""></Version>
   </Info>
   <Files>
     <File>
-      <Name>..\build\rusin.kmx</Name>
+      <Name>..\build\rusyn.kmx</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kmx</FileType>
     </File>
     <File>
-      <Name>..\build\rusin.js</Name>
+      <Name>..\build\rusyn.js</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.js</FileType>
     </File>
     <File>
-      <Name>..\build\rusin.kvk</Name>
+      <Name>..\build\rusyn.kvk</Name>
       <Description></Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.kvk</FileType>
@@ -55,8 +55,8 @@
   </Files>
   <Keyboards>
     <Keyboard>
-      <Name>Rusin</Name>
-      <ID>rusin</ID>
+      <Name>Rusyn</Name>
+      <ID>rusyn</ID>
       <Version>1.0</Version>
       <Languages>
         <Language ID="rsk-RS">rsk</Language>

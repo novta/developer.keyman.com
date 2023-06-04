@@ -9,24 +9,24 @@
   </Options>
   <Files>
     <File>
-      <ID>id_75aef87b7ff9b6e50f35ea8067c26951</ID>
-      <Filename>rusin.kmn</Filename>
-      <Filepath>source\rusin.kmn</Filepath>
+      <ID>id_0204c17f546525017687c5fb4fb277ba</ID>
+      <Filename>rusyn.kmn</Filename>
+      <Filepath>source\rusyn.kmn</Filepath>
       <FileVersion>1.0</FileVersion>
       <FileType>.kmn</FileType>
       <Details>
-        <Name>Rusin</Name>
+        <Name>Rusyn</Name>
         <Copyright>© Miroslav Novta</Copyright>
       </Details>
     </File>
     <File>
       <ID>id_e0a5acdca164a809d0efcd867233bc4c</ID>
-      <Filename>rusin.kps</Filename>
-      <Filepath>source\rusin.kps</Filepath>
+      <Filename>rusyn.kps</Filename>
+      <Filepath>source\rusyn.kps</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kps</FileType>
       <Details>
-        <Name>Rusin</Name>
+        <Name>Rusyn</Name>
         <Copyright>© Miroslav Novta</Copyright>
       </Details>
     </File>
@@ -53,39 +53,39 @@
     </File>
     <File>
       <ID>id_a2877be75e0bfe9fe9013cf03ab23434</ID>
-      <Filename>rusin.keyboard_info</Filename>
-      <Filepath>rusin.keyboard_info</Filepath>
+      <Filename>rusyn.keyboard_info</Filename>
+      <Filepath>rusyn.keyboard_info</Filepath>
       <FileVersion></FileVersion>
       <FileType>.keyboard_info</FileType>
     </File>
     <File>
-      <ID>id_6a53d569419e9adc559dc06c1ece09b1</ID>
-      <Filename>rusin.ico</Filename>
-      <Filepath>source\rusin.ico</Filepath>
+      <ID>id_ea50304110a83c0b914055f81ed2fdcc</ID>
+      <Filename>rusyn.ico</Filename>
+      <Filepath>source\rusyn.ico</Filepath>
       <FileVersion></FileVersion>
       <FileType>.ico</FileType>
-      <ParentFileID>id_75aef87b7ff9b6e50f35ea8067c26951</ParentFileID>
+      <ParentFileID>id_0204c17f546525017687c5fb4fb277ba</ParentFileID>
     </File>
     <File>
-      <ID>id_1cdcd8e71965e4b0a8956af93e0a425a</ID>
-      <Filename>rusin.kmx</Filename>
-      <Filepath>source\..\build\rusin.kmx</Filepath>
+      <ID>id_890c08740574cbbb7d125c4114ab41bd</ID>
+      <Filename>rusyn.kmx</Filename>
+      <Filepath>source\..\build\rusyn.kmx</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kmx</FileType>
       <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
     </File>
     <File>
-      <ID>id_b6a0efffd5dc04bd4de6f798b7743b83</ID>
-      <Filename>rusin.js</Filename>
-      <Filepath>source\..\build\rusin.js</Filepath>
+      <ID>id_251f7e7ab6b705d23694f8d81777a241</ID>
+      <Filename>rusyn.js</Filename>
+      <Filepath>source\..\build\rusyn.js</Filepath>
       <FileVersion></FileVersion>
       <FileType>.js</FileType>
       <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
     </File>
     <File>
-      <ID>id_d3fc92acc533b103b670d4834c663fe2</ID>
-      <Filename>rusin.kvk</Filename>
-      <Filepath>source\..\build\rusin.kvk</Filepath>
+      <ID>id_92bd518b6dde8879401879364d5e50c4</ID>
+      <Filename>rusyn.kvk</Filename>
+      <Filepath>source\..\build\rusyn.kvk</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kvk</FileType>
       <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
