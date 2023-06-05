@@ -5,11 +5,9 @@ store(&NAME) 'Rusyn'
 store(&COPYRIGHT) '© Miroslav Novta'
 store(&KEYBOARDVERSION) '1.0'
 store(&BITMAP) 'rusyn.ico'
-store(&VISUALKEYBOARD) 'rusyn.kvks'
+store(&LAYOUTFILE) 'rusyn.keyman-touch-layout'
 store(&ETHNOLOGUECODE) 'RSK'
-
-store(&CasedKeys) [K_A] [K_B] [K_C] [K_D] [K_E] [K_F] [K_G] [K_H] [K_I] [K_J] [K_K] [K_L] [K_M] [K_N] [K_O] [K_P] [K_Q] [K_R] [K_S] [K_T] [K_U] [K_V] [K_W] [K_X] [K_Y] [K_Z] [K_BKQUOTE] [K_LBRKT] [K_RBRKT] [K_BKSLASH] [K_COLON] [K_QUOTE]
-store(&TARGETS) 'windows macosx linux'
+store(&TARGETS) 'iphone ipad androidphone androidtablet'
 
 begin Unicode > use(main)
 
@@ -21,7 +19,6 @@ group(main) using keys
 + [SHIFT K_1] > '!'
 + [K_1] > '1'
 
-+ [SHIFT LALT K_2] > '"'
 + [SHIFT K_2] > '@'
 + [K_2] > '2'
 

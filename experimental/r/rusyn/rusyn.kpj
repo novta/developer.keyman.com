@@ -20,7 +20,7 @@
       </Details>
     </File>
     <File>
-      <ID>id_e0a5acdca164a809d0efcd867233bc4c</ID>
+      <ID>id_e90f75b641b0b6e04059b1fe54bc396b</ID>
       <Filename>rusyn.kps</Filename>
       <Filepath>source\rusyn.kps</Filepath>
       <FileVersion></FileVersion>
@@ -59,6 +59,17 @@
       <FileType>.keyboard_info</FileType>
     </File>
     <File>
+      <ID>id_6d964d81ce83c82e61dee7b18185b0b8</ID>
+      <Filename>rusyn_touch.kmn</Filename>
+      <Filepath>source\rusyn_touch.kmn</Filepath>
+      <FileVersion>1.0</FileVersion>
+      <FileType>.kmn</FileType>
+      <Details>
+        <Name>Rusyn</Name>
+        <Copyright>© Miroslav Novta</Copyright>
+      </Details>
+    </File>
+    <File>
       <ID>id_ea50304110a83c0b914055f81ed2fdcc</ID>
       <Filename>rusyn.ico</Filename>
       <Filepath>source\rusyn.ico</Filepath>
@@ -72,15 +83,7 @@
       <Filepath>source\..\build\rusyn.kmx</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kmx</FileType>
-      <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
-    </File>
-    <File>
-      <ID>id_251f7e7ab6b705d23694f8d81777a241</ID>
-      <Filename>rusyn.js</Filename>
-      <Filepath>source\..\build\rusyn.js</Filepath>
-      <FileVersion></FileVersion>
-      <FileType>.js</FileType>
-      <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
+      <ParentFileID>id_e90f75b641b0b6e04059b1fe54bc396b</ParentFileID>
     </File>
     <File>
       <ID>id_92bd518b6dde8879401879364d5e50c4</ID>
@@ -88,7 +91,7 @@
       <Filepath>source\..\build\rusyn.kvk</Filepath>
       <FileVersion></FileVersion>
       <FileType>.kvk</FileType>
-      <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
+      <ParentFileID>id_e90f75b641b0b6e04059b1fe54bc396b</ParentFileID>
     </File>
     <File>
       <ID>id_356e5d149c1e539356d72698c1e401a6</ID>
@@ -96,7 +99,7 @@
       <Filepath>source\welcome.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
-      <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
+      <ParentFileID>id_e90f75b641b0b6e04059b1fe54bc396b</ParentFileID>
     </File>
     <File>
       <ID>id_8da344c4cea6f467013357fe099006f5</ID>
@@ -104,7 +107,7 @@
       <Filepath>source\readme.htm</Filepath>
       <FileVersion></FileVersion>
       <FileType>.htm</FileType>
-      <ParentFileID>id_e0a5acdca164a809d0efcd867233bc4c</ParentFileID>
+      <ParentFileID>id_e90f75b641b0b6e04059b1fe54bc396b</ParentFileID>
     </File>
   </Files>
 </KeymanDeveloperProject>
